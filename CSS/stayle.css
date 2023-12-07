@@ -41,6 +41,13 @@ a {
   text-decoration: none;
 }
 
+ul li {
+  padding-right: 0px;
+}
+
+ol li{
+  padding-right: 0%;
+}
 /* head */
 
 .head h2 {
